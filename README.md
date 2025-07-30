@@ -201,10 +201,6 @@ This project supports modern browsers including:
 - [ ] Email integration
 - [ ] Invoice numbering automation
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Support
 
 If you encounter any issues or have questions, please open an issue in the repository.
